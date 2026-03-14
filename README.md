@@ -1,0 +1,1 @@
+A very basic usage stats generator for Pokemon tournaments. Place all pokepasts inside the .txt file, then run the "Stats Generator" python script. A new csv file should created containing the relevant usage stats for each pokemon.
