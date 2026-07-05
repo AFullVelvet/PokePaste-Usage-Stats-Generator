@@ -194,6 +194,10 @@ mega_dict = {
         'mega-name' : 'Victreebel-Mega'
         },
     'Starminite' : {
+        'species' : 'Starmie',
+        'mega-name' : 'Starmie-Mega'
+        },
+    'Dragoninite' : {
         'species' : 'Dragonite',
         'mega-name' : 'Dragonite-Mega'
         },
@@ -344,6 +348,10 @@ mega_dict = {
     'Baxcalibrite' : {
         'species' : 'Baxcalibur',
         'mega-name' : 'Baxcalibur-Mega'
+        },
+    'Chandelurite' : {
+        'species' : 'Chandelure',
+        'mega-name' : 'Chandelure-Mega'
         },
 }
 
