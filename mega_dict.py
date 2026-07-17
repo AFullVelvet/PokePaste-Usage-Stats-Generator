@@ -293,6 +293,10 @@ mega_dict = {
         'species' : 'Absol',
         'mega-name' : 'Absol-Mega-Z'
         },
+    'Staraptite' : {
+        'species' : 'Staraptor',
+        'mega-name' : 'Staraptor-Mega'
+        },
     'Garchompite Z' : {
         'species' : 'Garchomp',
         'mega-name' : 'Garchomp-Mega-Z'
